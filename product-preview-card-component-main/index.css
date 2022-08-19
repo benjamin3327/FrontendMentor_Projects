@@ -39,7 +39,7 @@ h3 {
     font-weight: 700;
     color: hsl(212, 21%, 14%);
     background-color: hsl(0, 0%, 100%);
-    width: 120px;
+    width: 110px;
     
 }
 h4 {
@@ -60,7 +60,7 @@ button {
     margin-bottom: 50px;
 }
 button:hover{
-    background-color: hsl(157, 33%, 25%);
+    background-color: hsl(158, 52%, 8%);
 }
 .old-price {
     font-size: 10px;
